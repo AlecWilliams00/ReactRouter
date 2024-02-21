@@ -1,5 +1,9 @@
 import { Routes, Route, Link} from "react-router-dom";
-
+import Blue from './blue'
+import Red from './red'
+import Home from './home'
+import Yellow from './yellow'
+import Green from './green'
 
 
 export default function mainsection(){
